@@ -1,11 +1,11 @@
 {
-  "name": "nearley-loader",
-  "version": "2.0.0",
+  "name": "@leetcode/nearley-loader",
+  "version": "2.1.0",
   "description": "Nearley parser rules loader for webpack",
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kozily/nearley-loader.git"
+    "url": "git+https://github.com/LeetCode-OpenSource/nearley-loader.git"
   },
   "keywords": [
     "loader",
@@ -14,9 +14,9 @@
   "author": "Kozily",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kozily/nearley-loader/issues"
+    "url": "https://github.com/LeetCode-OpenSource/nearley-loader/issues"
   },
-  "homepage": "https://github.com/kozily/nearley-loader#readme",
+  "homepage": "https://github.com/LeetCode-OpenSource/nearley-loader#readme",
   "peerDependencies": {
     "nearley": "^2.0.0"
   }
